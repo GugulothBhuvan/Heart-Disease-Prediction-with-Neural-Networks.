@@ -21,6 +21,8 @@ Ensure the following Python libraries are installed:
 - scikit-learn (sklearn)
 - keras
 
+```
+
 You can install these dependencies using the provided code snippet:
 
 ```bash
