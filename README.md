@@ -57,4 +57,3 @@ Contributions to this project are welcome. For major changes, please open an iss
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-You can save this content into your Markdown file. Let me know if you need any further assistance!
