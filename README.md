@@ -1,6 +1,3 @@
-Thank you for providing the content! Here's the content formatted as a Markdown file:
-
-```markdown
 # Heart Disease Prediction using Neural Networks
 
 ## Overview
@@ -14,6 +11,9 @@ In the rapidly evolving landscape of healthcare, the integration of machine lear
 ## Dependencies
 
 Ensure the following Python libraries are installed:
+
+```python
+
 
 - pandas
 - numpy
